@@ -35,18 +35,6 @@ Gradle은 Grooby를 이용한 빌드 자동화 시스템이다. Ant와 Maven의 
 
 정보를 더욱 얻고싶다면 [gradle.org/maven-vs-gradle/](https://gradle.org/maven-vs-gradle/)
 
-[
-
-Gradle | Gradle vs Maven Comparison
-
-High-level performance and feature comparison between Gradle and Maven
-
-gradle.org
-
-
-
-](https://gradle.org/maven-vs-gradle/)
-
 ---
 
 ## **결론**

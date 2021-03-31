@@ -5,5 +5,5 @@
 
 ### Spring Boot Framework
  * [Gradle과 Maven 차이](https://github.com/WannyWanny/TIL/blob/master/Spring/Maven.md)
- * [각종 Annotation 정리]
+ * [각종 Annotation 정리](https://github.com/WannyWanny/TIL/blob/master/Spring/Annotation.md)
  * [Spring Framework 동작 과정]

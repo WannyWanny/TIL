@@ -11,4 +11,4 @@
 ### DB
 
 ### Java
- * [optional<T>란 무엇일까](https://github.com/WannyWanny/TIL/blob/master/Java/Optional.md)
+ * [optional<T>이란 무엇일까](https://github.com/WannyWanny/TIL/blob/master/Java/Optional.md)

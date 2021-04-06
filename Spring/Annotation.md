@@ -13,3 +13,6 @@
 - @Disabled: 특정 메소드가 @Deprecated되었거나 테스트에 확실히 Passed가 되는 경우가 아닐때 실행되지 않도록 처리하는 부분.
 - @BeforeAll, @AfterAll: 클래스에 존재하는 모든 메소드를 실행한다고 할때, 메소드가 시작하기전과 끝난후에 실행되는 단위들
 - @BeforeEach, @AfterEach: 각각의 메소드가 실행 전, 실행 후에 호출되어 처리 되는것들. 
+
+# @AutoWired
+<br>스프링 컨테이너 안에 존재하는 Bean을 자동으로 주입해준다.

@@ -1,2 +1,5 @@
 ###
 JOIN
+
+# MySQL 명령어
+- NVL, NVL2, COALESCE

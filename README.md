@@ -9,7 +9,7 @@
  * [Spring Framework 동작 과정]
 
 ### DB
-
+  * [OLTP와 OLAP의 차이](https://github.com/WannyWanny/TIL/blob/master/DB/OLTP%26OLAP.md)
 ### Java
  * [optional<T>이란 무엇일까](https://github.com/WannyWanny/TIL/blob/master/Java/Optional.md)
 

@@ -15,3 +15,6 @@
 
 ### AWS 
   * [port 22: Operation timed out 에러 해결](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-linux-resolve-ssh-connection-errors/)
+
+ ### ETC
+  * DevOps란?

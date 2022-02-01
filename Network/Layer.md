@@ -9,3 +9,5 @@
 |3|Network Layer|Decides which physical path the data will take|
 |2|Data Link Layer|Defines the format of data on the network|
 |1|Physical Layer|Transmits raw bit stream over the physical medium|
+
+7->1의 순서로 캡슐화가, 1->7로 역캡슐화가 진행된다.

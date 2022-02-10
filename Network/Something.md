@@ -13,11 +13,11 @@
 
 [OSI 7 Layers]
 
-![스크린샷 2022-02-10 오후 9.50.26.png]
+![OSI 7 Layers](./Image/OSI_7_Layers.png)
 
 [OSI 7 Layers 흐름도(캡슐화 과정)]
 
-![스크린샷 2022-02-10 오후 9.51.02.png]
+![스크린샷 2022-02-10 오후 9.51.02.png](./Image/OSI_7_Layers_Flow.png)
 
 - 라우팅
     

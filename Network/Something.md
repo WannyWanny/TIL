@@ -10,10 +10,12 @@
     
     둘째, 보안의 목적. 내부망과 공개망 사이에 방화벽을 운영하여 외부로부터 내부 인터넷망을 보호한다. 
     
+[OSI 7 Layers] <br>
+![OSI 7 Layers](https://github.com/WannyWanny/TIL/blob/master/Image/OSI%207%20Layers.png)
 
-![OSI 7 Layers](./Image/OSI 7 Layers.png)
 
-![OSI 7 Layers 흐름도(캡슐화 과정)](./Image/OSI 7 Layers Flow.png)
+[OSI 7 Layers 흐름도(캡슐화 과정)]] <br>
+![OSI 7 Layers 흐름도(캡슐화 과정)](https://github.com/WannyWanny/TIL/blob/master/Image/OSI%207%20Layers%20Flow.png)
 
 - 라우팅
     

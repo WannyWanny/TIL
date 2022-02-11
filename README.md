@@ -12,6 +12,8 @@
  * [OSI 7 Layers](https://github.com/WannyWanny/TIL/blob/master/Network/Layer.md)
  * [3-way & 4-way Handshake](https://github.com/WannyWanny/TIL/blob/master/Network/Handshake.md)
  * [TCP & UDP](https://github.com/WannyWanny/TIL/blob/master/Network/TCP%26UDP.md)
+ * [웹 통신의 큰 흐름](https://github.com/WannyWanny/TIL/blob/master/Network/Flow.md)
+ * [이것저것](https://github.com/WannyWanny/TIL/blob/master/Network/Something.md)
 
 ### Cloud
  * [IaaS, Paas, Saas]

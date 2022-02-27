@@ -15,11 +15,5 @@
  * [웹 통신의 큰 흐름](https://github.com/WannyWanny/TIL/blob/master/Network/Flow.md)
  * [이것저것](https://github.com/WannyWanny/TIL/blob/master/Network/Something.md)
 
-### Cloud
- * [IaaS, Paas, Saas]
-
-### Security
- * [SSL 이란?]
-
  ### ETC
   * [DevOps란?](https://aws.amazon.com/ko/devops/what-is-devops/)

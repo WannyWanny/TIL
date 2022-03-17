@@ -2,8 +2,10 @@
 >매일매일 공부하고 매일매일 정리하자
 
 ---------------------------------------------------------------------------------------------------------------------- 
+### Spring
+  * [REST]
 ### JavaScript
-* [변수 선언](https://github.com/WannyWanny/TIL/blob/master/JavaScript/variable.md)
+  * [변수 선언](https://github.com/WannyWanny/TIL/blob/master/JavaScript/variable.md)
 ### DB
   * [OLTP와 OLAP의 차이](https://github.com/WannyWanny/TIL/blob/master/DB/OLTP%26OLAP.md)
  

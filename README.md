@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------- 
 ### Spring
-  * [REST]
+  * [REST](https://github.com/WannyWanny/TIL/blob/master/Spring/REST.md)
 ### JavaScript
   * [변수 선언](https://github.com/WannyWanny/TIL/blob/master/JavaScript/variable.md)
 ### DB

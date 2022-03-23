@@ -4,8 +4,12 @@
 ---------------------------------------------------------------------------------------------------------------------- 
 ### Spring
   * [REST](https://github.com/WannyWanny/TIL/blob/master/Spring/REST.md)
+  * [Annotation](https://github.com/WannyWanny/TIL/blob/master/Spring/Annotation.md)
+
 ### JavaScript
   * [변수 선언](https://github.com/WannyWanny/TIL/blob/master/JavaScript/variable.md)
+
+
 ### DB
   * [OLTP와 OLAP의 차이](https://github.com/WannyWanny/TIL/blob/master/DB/OLTP%26OLAP.md)
  

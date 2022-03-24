@@ -19,3 +19,11 @@ HTTP 비동기 통신을 하기위해 필요합니다. 클라이언트와 서버
 ### @PathVariabl
 주소뒤에 변수명을 매핑하기 위함. ex) /put/{userId}로 받을 경우 parameter에 userId변수가 있을 텐데 앞에 해당 어노테이션을 붙인다.<br>
 @PathVariable(name = )으로도 사용이 가능함. 
+
+### @Configuration
+스프링 IoC Container에게 해당 클래스를 Bean구성 Class임을 선언한다. <br>
+
+### @Component, @Bean
+둘다 IoC Container에게 Bean을 등록하도록 메타데이터를 기입하는 어노테이션. 하지만 둘의 용도는 다르다.
+@Bean의 경우 개발자가 직접 제어가 불가능한 외부 라이브러리등을 Bean으로 만들려고 할 때 사용.<br>
+@Componenet는 개발자가 직접 작성한 Class를 Bean으로 등록하기 위해 사용.

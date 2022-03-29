@@ -6,6 +6,7 @@
   * [REST](https://github.com/WannyWanny/TIL/blob/master/Spring/REST.md)
   * [AOP](https://github.com/WannyWanny/TIL/blob/master/Spring/AOP.md)
   * [Annotation](https://github.com/WannyWanny/TIL/blob/master/Spring/Annotation.md)
+  * [Validation](https://github.com/WannyWanny/TIL/blob/master/Spring/Validation.md)
 
 ### JavaScript
   * [변수 선언](https://github.com/WannyWanny/TIL/blob/master/JavaScript/variable.md)
